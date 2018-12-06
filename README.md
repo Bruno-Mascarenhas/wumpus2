@@ -34,9 +34,7 @@ Run!:
 ## Authors
 
 * **Bruno S Mascarenhas** - *Collaborator* - [Bruno Mascarenhas](https://github.com/Bruno-Mascarenhas)
-* **Caio Rocha** - *Collaborator*
 * **Igor Q Silva** - *Collaborator, Leader* - [Igor Quadros](https://github.com/igorqs)
-* **Gabriel A Sousa** - *Collaborator*
 
 ## License
 
